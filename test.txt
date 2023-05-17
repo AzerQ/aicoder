@@ -1,0 +1,400 @@
+Запиши это в две колонки (слово, перевод) оттабулируй
+control
+
+1. контроль
+
+ability
+
+2. способность
+
+abroad
+
+3. за границей
+
+absolutely
+
+4. абсолютно
+
+according
+
+5. предоставление
+
+accustomed
+
+6. приученный
+
+advance
+
+7. прогресс
+
+associated
+
+8. связанный
+
+bifocal
+
+9. бифокальный
+
+candle
+
+10. свеча
+
+capable
+
+12. способный
+
+carry
+
+13. нести
+
+charmed
+
+14. заколдованный
+
+cheek
+
+15. щека
+
+claimed
+
+16. требуемый
+
+considered
+
+17. сочтенный
+
+constantly
+
+18. постоянно
+
+contemporary
+
+19. современник
+
+convenient
+
+20. удобный
+
+countryside
+
+21. сельская местность
+
+creations
+
+22. создания
+
+daylight
+
+23. дневной свет
+
+decade
+
+24. десятилетие
+
+demonstration
+
+25. демонстрация
+
+despite
+
+26. несмотря на
+
+dictum
+
+27. изречение
+
+discoveries
+
+28. открытия
+
+distinctly
+
+29. отчетливо
+
+during
+
+30. в течение
+
+essentially
+
+31. по существу
+
+experimentation
+
+32. экспериментирование
+
+explanation
+
+33. объяснение
+
+extra
+
+34. дополнительный
+
+extreme
+
+35. чрезвычайный
+
+eyeglasses
+
+36. очки
+
+face
+
+37. лицо
+
+features
+
+38. особенности
+
+filled
+
+39. заполненный
+
+finding
+
+40. обнаружение
+
+fired
+
+41. запущенный
+
+forerunners
+
+42. предшественники
+
+furthermore
+
+43. кроме того
+
+genius
+
+44. гений
+
+glasses
+
+45. стаканы, стекла
+
+guitar
+
+46. гитара
+
+half
+
+47. половина
+
+harming
+
+48. нанесение вреда
+
+harp
+
+49. арфа
+
+hide
+
+50. скрыться
+
+hurled
+
+51. швырнувший
+
+improvement
+
+52. усовершенствование
+
+inefficient
+
+53. неэффективный
+
+instrument
+
+54. инструмент
+
+invented
+
+55. изобретенный
+
+inventive
+
+56. изобретательный
+
+javelin
+
+57. копье
+
+jump
+
+11. скачок, переход
+
+lightning
+
+58. молния
+
+pair
+
+59. пара
+
+particularly
+
+60. особенно
+
+performance
+
+61. выступление
+
+phenomenal
+
+62. феноменальный
+
+philosopher
+
+63. философ
+
+pound
+
+64. фунт
+
+precisely
+
+65. точно
+
+previous
+
+66. предыдущий
+
+prior
+
+67. предшествующий
+
+produced
+
+68. произведенный
+
+proper
+
+69. надлежащий
+
+proposed
+
+70. предложенный
+
+providing
+
+71. обеспечение
+
+punishing
+
+72. наказание
+
+ready
+
+73. готовый
+
+recent
+
+74. недавний
+
+recognized
+
+75. признанный
+
+referred
+
+76. отнесенный
+
+reputation
+
+77. репутация
+
+rise
+
+78. повышение
+
+rod
+
+79. прут
+
+safely
+
+80. благополучно
+
+sagacious
+
+81. проницательный
+
+salacious
+
+82. непристойный
+
+shifted
+
+83. перемещенный
+
+sluggard
+
+84. бездельник
+
+spectacles
+
+85. очки
+
+spectacular
+
+86. захватывающий
+
+sunrise
+
+87. восход солнца
+
+sweetness
+
+88. сладость
+
+thunder
+
+89. гром
+
+thunderbolts
+
+90. удары молнии
+
+tone
+
+91. тон
+
+tongue
+
+92. язык
+
+transformative
+
+93. поддающийся трансформации
+
+troublesome
+
+94. неприятный
+
+tuned
+
+95. настроенный
+
+universal
+
+96. универсальный
+
+utilitarian
+
+97. прагматик
+
+violin
+
+98. скрипка
+
+wax
+
+99. воск
+
+wise
+
+100. мудрый

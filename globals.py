@@ -1,17 +1,16 @@
-from ticketrepo import TicketRepository
+from ticket import TicketRepository
 
-#Загрузить API ключи
-APIKeys:list[str] = []
+# Загрузить API ключи
+# APIKeys:list[str] = []
 
 # Все глобальные тикеты программы
 
-Tikets = TicketRepository([]) #Глобальный репозиторий тикетов
+tickets: list[dict[str, (str, str)]] = []  # Глобальный репозиторий тикетов
 
-FILENAME = "Tickets.json" #Имя файла с историей запросов
+FILENAME = "Tickets.json"  # Имя файла с историей запросов
 
 UseDialogMode = True
 
-Question = ""
 
 class bcolors:
     HEADER = '\033[95m'
